@@ -65683,7 +65683,7 @@ c=c.d
 s=t.w
 r=A.F(a,B.f,s).w
 q=A.F(a,B.f,s).w
-p=B.ks.U(0,B.hg)
+p=B.Aa.U(0,B.hg)
 o=A.bs("Vamos agendar uma consulta?",d,$.cq().yM(B.k,A.b_(18,a,e.a.d),A.a([B.vA],t.kO)),B.ae)
 n=$.cq()
 m=A.b_(16,a,e.a.d)
@@ -65769,7 +65769,7 @@ e=A.F(a4,B.f,a1).w
 d=A.cl(A.a([A.dq(a,A.eE(B.kJ,B.j,a,A.F(a4,B.f,a1).w.a.a*0.08),B.L,!1,a,a,a,a,a,a,a,a,a,a,a,a,new A.a9S(),a,a,a),A.dq(a,A.bs("@Individuarpsi",a,$.ajC().d4(B.j,A.b_(20,a4,b.a.d)),a),B.L,!1,a,a,a,a,a,a,a,a,a,a,a,a,new A.a9T(),a,a,a)],a3),B.q,a,B.ba,B.K)
 c=A.F(a4,B.f,a1).w
 a1=A.F(a4,B.f,a1).w
-return A.bY(A.a([a2,new A.av(s,p,a),new A.av(B.Aa,A.bY(A.a([new A.av(B.a_,new A.m6(r,q,B.ft,!0,a),a),new A.av(B.az,n,a),new A.av(o,new A.m6(l,m,B.fu,!1,a),a),new A.av(B.az,k,a),new A.av(j,new A.m6(h,i,B.fv,!0,a),a),new A.av(B.a7,A.cG(a,A.bY(A.a([new A.av(B.hf,d,a),A.fs(A.ahZ(b.a.c.k3,new A.a9U(b),4,new A.a9V(b)),a1.a.b*1.1,c.a.a*0.95)],a3),B.q,a,B.w),g.ax.c,a,f.a.b*1.3,a,a,a,e.a.a),a)],a3),B.q,a,B.w),a)],a3),B.q,a0.dy,B.w)}}
+return A.bY(A.a([a2,new A.av(s,p,a),new A.av(B.ks,A.bY(A.a([new A.av(B.a_,new A.m6(r,q,B.ft,!0,a),a),new A.av(B.az,n,a),new A.av(o,new A.m6(l,m,B.fu,!1,a),a),new A.av(B.az,k,a),new A.av(j,new A.m6(h,i,B.fv,!0,a),a),new A.av(B.a7,A.cG(a,A.bY(A.a([new A.av(B.hf,d,a),A.fs(A.ahZ(b.a.c.k3,new A.a9U(b),4,new A.a9V(b)),a1.a.b*1.1,c.a.a*0.95)],a3),B.q,a,B.w),g.ax.c,a,f.a.b*1.3,a,a,a,e.a.a),a)],a3),B.q,a,B.w),a)],a3),B.q,a0.dy,B.w)}}
 A.a9S.prototype={
 $0(){return A.y2()},
 $S:0}
@@ -65932,7 +65932,7 @@ q=t.w
 p=A.F(a,B.f,q).w
 o=A.F(a,B.f,q).w
 n=A.ah2(B.dE,A.eF("assets/home_mobile.png",i,i).c,1)
-q=A.eF("assets/mandala.png",i,A.F(a,B.f,q).w.a.a*0.5)
+q=A.eF("assets/mandala.png",i,A.F(a,B.f,q).w.a.a*0.4)
 j.a.toString
 m=B.b.gJ(h.split(" ")).toUpperCase()
 m=A.e0(i,i,i,$.k6().d4(B.j,A.b_(24,a,j.a.d)),m)
@@ -70217,8 +70217,8 @@ B.az=new A.aH(0,16,0,0)
 B.A9=new A.aH(0,16,32,0)
 B.a7=new A.aH(0,32,0,0)
 B.hf=new A.aH(0,32,0,32)
-B.Aa=new A.aH(0,48,0,0)
-B.ks=new A.aH(0,64,0,0)
+B.ks=new A.aH(0,48,0,0)
+B.Aa=new A.aH(0,64,0,0)
 B.Ab=new A.aH(0,8,0,0)
 B.Ac=new A.aH(12,8,12,8)
 B.dY=new A.aH(16,0,0,0)
