@@ -66108,7 +66108,7 @@ n=A.p(g,B.j,0.3)
 m=B.av.U(0,B.a_)
 g=new A.ma(g,0,B.r,B.aU,B.N,A.ai9(h,A.cG(h,A.a69(A.bY(A.a([r,new A.av(B.av,p,h),o,new A.av(B.Ae,A.cG(h,new A.av(m,A.bs(i.w,h,$.cq().d4(B.k,A.b_(16,a,q)),B.ae),h),h,new A.ct(n,h,h,B.jf,h,h,B.aa),i.r*0.8,h,h,h,h),h)],t.p),B.q,h,B.w),h),g,h,h,h,h,h,h),h,new A.av(B.a7,s,h),B.fO,h),!0,h)}else{s=i.r
 r=i.x
-q=A.no(a).Lv("DESKTOP")?r/2:r
+q=A.no(a).a5o("DESKTOP")?r/2:r
 p=i.y
 o=i.e
 n=A.bs(i.d,h,$.cq().fV(B.k,A.b_(16,a,o),B.O),h)
@@ -66239,7 +66239,7 @@ if(p==null)p=$.dC=B.b4
 return new A.F2(new A.abh(p.ti(0,q,t.pa)),q)}}
 A.abh.prototype={
 $2(a,b){var s=this.a
-return A.no(a).a5o("DESKTOP")?new A.uL(s,b,null):new A.uM(s,b,null)},
+return A.no(a).Lv("DESKTOP")?new A.uL(s,b,null):new A.uM(s,b,null)},
 $S:430}
 A.Ur.prototype={
 $1(a){if(a.p(0,B.R))return $.dR().JA(B.O)
@@ -67110,11 +67110,11 @@ A.Hf.prototype={
 i(a){var s=this,r=s.d
 r=new A.vf(r,A.a6(r).h("vf<1>"))
 return"ResponsiveBreakpoints(breakpoint: "+s.c.i(0)+", breakpoints: "+r.i(r)+", isMobile: "+s.e+", isPhone: "+s.f+", isTablet: "+s.r+", isDesktop: "+s.w+")"},
-Lv(a){var s=A.ahE(this.d,new A.a4q(a))
+a5o(a){var s=A.ahE(this.d,new A.a4q(a))
 s=s==null?null:s.b
 if(s==null)s=1/0
 return this.a>s},
-a5o(a){var s=A.ahE(this.d,new A.a4p(a))
+Lv(a){var s=A.ahE(this.d,new A.a4p(a))
 s=s==null?null:s.a
 if(s==null)s=1/0
 return this.a>=s},
