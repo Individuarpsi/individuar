@@ -77232,7 +77232,7 @@ q=A.H(a,B.h,s).w
 p=B.d.mX("Nosso espa\xe7o"," ","\n")
 o=A.H(a,B.h,s).w
 n=t.p
-return new A.aq(B.ag,A.bL(A.b([A.cm(A.b([new A.aq(B.eU,new A.rl(!0,l,k,r.a.a*0.45,q.a.a*0.05,m),m),new A.aq(B.Cu,new A.hq(p,A.H(a,B.h,s).w.a.a*0.05,o.a.b*0.15,this.a.d,m),m)],n),B.r,m,B.bP,B.q),new A.IB(A.cm(A.b([A.e2(m,m,A.fd("assets/space_1.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31),A.ck(m,m,B.p,A.Z(a).ax.c,m,m,m,m,m,A.H(a,B.h,s).w.a.a*0.005),A.e2(m,m,A.fd("assets/space_2.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31),A.ck(m,m,B.p,A.Z(a).ax.c,m,m,m,m,m,A.H(a,B.h,s).w.a.a*0.005),A.e2(m,m,A.fd("assets/space_3.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31)],n),B.r,m,B.b4,B.q),m)],n),B.r,k.CW,B.x,B.q),m)}}
+return new A.aq(B.ag,A.bL(A.b([A.cm(A.b([new A.aq(B.eU,new A.rl(!0,l,k,r.a.a*0.45,q.a.a*0.05,m),m),new A.aq(B.Cu,new A.hq(p,A.H(a,B.h,s).w.a.a*0.05,o.a.b*0.15,this.a.d,m),m)],n),B.r,m,B.bP,B.q),new A.IB(A.cm(A.b([A.e2(m,m,A.fd("assets/space_1.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31),A.ck(m,m,B.p,B.k,m,m,m,m,m,A.H(a,B.h,s).w.a.a*0.005),A.e2(m,m,A.fd("assets/space_2.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31),A.ck(m,m,B.p,B.k,m,m,m,m,m,A.H(a,B.h,s).w.a.a*0.005),A.e2(m,m,A.fd("assets/space_3.jpg",m,m).c,A.H(a,B.h,s).w.a.a*0.31)],n),B.r,m,B.b4,B.q),m)],n),B.r,k.CW,B.x,B.q),m)}}
 A.xZ.prototype={
 a8(){return new A.QO(A.b([B.kO,B.kP,B.kQ],t.d5))}}
 A.QO.prototype={
