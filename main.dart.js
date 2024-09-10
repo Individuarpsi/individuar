@@ -23681,7 +23681,7 @@ return A.K(null,r)}})
 return A.L($async$Ne,r)},
 af4(){var s=0,r=A.M(t.H)
 var $async$af4=A.N(function(a,b){if(a===1)return A.J(b,r)
-while(true)switch(s){case 0:A.hQ("https://wa.me/+5571992462140")
+while(true)switch(s){case 0:A.hQ("https://wa.me/5571992462140")
 return A.K(null,r)}})
 return A.L($async$af4,r)},
 B4(){var s=0,r=A.M(t.H)
